@@ -1,0 +1,3 @@
+/Users/peterbilski/Documents/CSC317/A3/computer-graphics-ray-tracing/build/CMakeFiles/raytracing.dir
+/Users/peterbilski/Documents/CSC317/A3/computer-graphics-ray-tracing/build/CMakeFiles/edit_cache.dir
+/Users/peterbilski/Documents/CSC317/A3/computer-graphics-ray-tracing/build/CMakeFiles/rebuild_cache.dir

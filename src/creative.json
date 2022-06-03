@@ -1,0 +1,35 @@
+{
+  "camera": {
+    "type": "perspective",
+    "focal_length": 3,
+    "eye": [0,0,5],
+    "up": [0,1,0],
+    "look": [0,0,-1],
+    "height": 1,
+    "width": 1.7777777778
+  },
+  "materials": [
+    {
+      "name": "green metal",
+      "ka": [0.301961,0.686275,0.290196],
+      "kd": [0.301961,0.686275,0.290196],
+      "ks": [0.2,0.2,0.2],
+      "km": [0.1,0.1,0.1],
+      "phong_exponent": 500
+    }
+  ],
+  "lights":[
+    {
+      "type": "directional",
+      "direction": [0.1,0.1,-1],
+      "color": [1.0,0.6,0.6]
+    }
+  ],
+  "objects": [
+    {
+      "type": "soup",
+      "material": "green metal",
+      "stl": "skull.stl"
+    }
+  ]
+}
